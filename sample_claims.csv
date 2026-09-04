@@ -1,0 +1,4 @@
+claim_id,provider,patient,amount,score,signals,reason
+CLM-CSV-001,NorthStar Hospital,P-1001,145000,88,"Duplicate claim|Amount anomaly","Duplicate claim fingerprint"
+CLM-CSV-002,Prime Diagnostics,P-1002,32000,46,"Late billing","Unusual submission time"
+CLM-CSV-003,HealthBridge Clinic,P-1003,17500,18,"","Consistent claim pattern"
