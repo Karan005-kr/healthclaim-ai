@@ -1,6 +1,16 @@
-# ClaimShield AI 
+# ClaimShield AI v4 — Spacious Multi-Page Hackathon Prototype
 
 AI-Powered Healthcare Claim Fraud Detection, redesigned as a calm healthcare product with real page separation and visible motion.
+
+## Team
+
+**Team Name:** Black Pearl
+
+**Members:**
+- Karan
+- Kunal
+- Yash
+
 
 ## What changed in v4
 
@@ -44,6 +54,11 @@ The frontend uses an explainable weighted risk engine. It is a hackathon simulat
 ## Production roadmap
 
 Secure claims ingestion → de-identification → feature store → XGBoost/LightGBM → anomaly detection → graph analytics → SHAP explanations → investigator feedback → monitored retraining.
+
+## Important
+
+This prototype produces review-priority scores, not medical or legal determinations. Real deployment requires privacy, security, de-identification, regulatory controls, bias evaluation, auditability and human oversight.
+
 
 ## Important
 
