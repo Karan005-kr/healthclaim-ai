@@ -1,4 +1,4 @@
-# ClaimShield AI v4 — Spacious Multi-Page Hackathon Prototype
+# ClaimShield AI 
 
 AI-Powered Healthcare Claim Fraud Detection, redesigned as a calm healthcare product with real page separation and visible motion.
 
